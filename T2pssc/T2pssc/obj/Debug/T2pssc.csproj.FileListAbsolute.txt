@@ -1,0 +1,92 @@
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\ApplicationInsights.config
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\csc.exe
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\System.Collections.Immutable.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\vbc.exe
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\VBCSCompiler.exe
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\roslyn\VBCSCompiler.exe.config
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\T2pssc.dll.config
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\T2pssc.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\T2pssc.pdb
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.Web.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.WindowsServer.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.ApplicationInsights.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Helpers.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Mvc.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Razor.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Webpages.Deployment.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Webpages.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Webpages.Razor.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.Web.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.AI.WindowsServer.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.ApplicationInsights.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Razor.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Webpages.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Webpages.Deployment.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Webpages.Razor.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Helpers.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\bin\System.Web.Mvc.xml
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\obj\Debug\T2pssc.csprojResolveAssemblyReference.cache
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\obj\Debug\T2pssc.dll
+c:\users\adelina\documents\visual studio 2015\Projects\T2pssc\T2pssc\obj\Debug\T2pssc.pdb
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\ApplicationInsights.config
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\csc.exe
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\vbc.exe
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\VBCSCompiler.exe
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\T2pssc.dll.config
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\T2pssc.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\T2pssc.pdb
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.Web.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Helpers.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Mvc.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Razor.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Webpages.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Webpages.Razor.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.Web.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Razor.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Webpages.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Webpages.Razor.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Helpers.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\bin\System.Web.Mvc.xml
+C:\Users\adelina\Desktop\T2pssc\T2pssc\obj\Debug\T2pssc.csprojResolveAssemblyReference.cache
+C:\Users\adelina\Desktop\T2pssc\T2pssc\obj\Debug\T2pssc.dll
+C:\Users\adelina\Desktop\T2pssc\T2pssc\obj\Debug\T2pssc.pdb
